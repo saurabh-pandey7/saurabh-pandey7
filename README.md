@@ -16,7 +16,7 @@
 
 ## I'm a Software Test Engineer!! 
 
-</br>🔭 2+ years of Software industry experience in Software testing (Manual, Automation, API testing). 
+</br>🔭 3+ years of Software industry experience in Software testing (Manual, Automation, API testing). 
 </br>🌱 Exposure on Software Engineering Process and familiar with various Life Cycle Models like SDLC, STLC.
 </br>👯 Proficient in Selenium Test Automation using Java programming language.
 </br>🥅 Strong experience on Datadriven framework and Cucumber framework automation using Java programming language.
