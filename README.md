@@ -94,7 +94,7 @@
 [instagram]: https://instagram.com/pandey.saurabh.7
 [linkedin]: https://linkedin.com/in/saurabhpandey07/
 [whatsapp]: https://api.whatsapp.com/send?phone=917860536556&text=Hello%20Saurabh%2C%0A%0AHow%20are%20you%3F
-[gmail]: https://mail.google.com/mail/u/0/#inbox?compose=new
+[gmail]: mailto:saurabh.pandey2804@gmail.com
 --
 
 <!---
