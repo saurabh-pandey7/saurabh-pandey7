@@ -52,7 +52,7 @@
 
 # Experience 
 
-## ```Company```: KNNX Corp. (Nov 2021 - Present)
+## ```Company```: KNNX Corp. (Nov 2021 - Mar 2025)
 
 ### 1.   Project: Back-end Automation Testing of WALMART CANADA'S Accessorial Claims and Invoice Generation Process
 #### Role: Test Autmation Engineer - SDET 
